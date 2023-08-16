@@ -5,7 +5,7 @@ This repository is dedicated to learning and practicing JavaScript concepts for 
 ![](https://codedamn.com/assets/images/modern/fullstack/react.png)
 
 #
-<img src="https://codedamn.com/assets/images/modern/fullstack/js.png" width="300">
+<img src="https://codedamn.com/assets/images/modern/fullstack/js.png" width="100">
 
 
 ![](https://codedamn.com/assets/images/modern/fullstack/node.png)
