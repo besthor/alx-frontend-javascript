@@ -1,6 +1,7 @@
 
 # ALX Frontend JavaScript Repository
 This repository is dedicated to learning and practicing JavaScript concepts for frontend development.
+![](https://codedamn.com/assets/images/modern/fullstack/react.png)
 ## Contents
 
 - **Exercises:** This directory contains hands-on exercises to practice JavaScript concepts. Each exercise focuses on a specific topic and provides a chance to apply what you've learned.
