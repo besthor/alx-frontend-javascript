@@ -4,24 +4,13 @@ This repository is dedicated to learning and practicing JavaScript concepts for 
 #
 <img src="https://codedamn.com/assets/images/modern/fullstack/js.png" alt="JavaScript" width="200" height="150">
 
+<img src="https://codedamn.com/assets/images/modern/fullstack/react.png" alt="React" width="200" height="150">
 
-![](https://codedamn.com/assets/images/modern/fullstack/react.png)
+<img src="https://codedamn.com/assets/images/modern/fullstack/node.png" alt="Node" width="200" height="150">
 
-#
-<img src="https://codedamn.com/assets/images/modern/fullstack/js.png" width="100">
+<img src="https://codedamn.com/assets/images/modern/fullstack/github.png" alt="github" width="200" height="150">
 
-
-![](https://codedamn.com/assets/images/modern/fullstack/node.png)
-
-![](https://codedamn.com/assets/images/modern/fullstack/js.png)
-
-![](https://codedamn.com/assets/images/modern/fullstack/node.png)
-
-![](https://codedamn.com/assets/images/modern/fullstack/github.png)
-
-![](https://codedamn.com/assets/images/modern/fullstack/mongodb.png)
-
-![](https://codedamn.com/assets/images/modern/fullstack/react.png)
+<img src="https://codedamn.com/assets/images/modern/fullstack/mongodb.png" alt="mongodb" width="200" height="150">
 
 
 ## Contents
