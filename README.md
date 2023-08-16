@@ -1,8 +1,7 @@
 
-# ALX Frontend JavaScript Repository
+# `ALX Frontend JavaScript Repository`
 
-#
-[![](https://www.uplers.com/wp-content/uploads/2021/10/skills-your-front-end-developers-must-have.jpg)
+
 This repository is dedicated to learning and practicing JavaScript concepts for frontend development.
 #
 <div style="display: flex;">
