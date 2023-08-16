@@ -13,6 +13,6 @@ This repository is dedicated to learning and practicing JavaScript concepts for 
 
 ## Contact
 
-If you have any questions or need assistance, you can reach out to us [here](besthor:igbebestor7@gmail.com).
+If you have any questions or need assistance, you can reach out to us [here](igbebestor7@gmail.com)
 
 Happy coding and enjoy your journey in mastering JavaScript for frontend development!
