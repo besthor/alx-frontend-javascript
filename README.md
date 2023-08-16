@@ -3,11 +3,11 @@
 This repository is dedicated to learning and practicing JavaScript concepts for frontend development.
 #
 <div style="display: flex;">
-    <img src="https://codedamn.com/assets/images/modern/fullstack/js.png" alt="JavaScript" width="150" height="100">
-    <img src="https://codedamn.com/assets/images/modern/fullstack/react.png" alt="React" width="150" height="100">
-    <img src="https://codedamn.com/assets/images/modern/fullstack/node.png" alt="Node" width="150" height="100">
-    <img src="https://codedamn.com/assets/images/modern/fullstack/github.png" alt="GitHub" width="150" height="100">
-    <img src="https://codedamn.com/assets/images/modern/fullstack/mongodb.png" alt="MongoDB" width="150" height="100">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/js.png" alt="JavaScript" width="100" height="100">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/react.png" alt="React" width="100" height="100">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/node.png" alt="Node" width="100" height="100">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/github.png" alt="GitHub" width="100" height="100">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/mongodb.png" alt="MongoDB" width="100" height="100">
 </div>
 
 
