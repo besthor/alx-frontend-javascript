@@ -2,15 +2,14 @@
 # ALX Frontend JavaScript Repository
 This repository is dedicated to learning and practicing JavaScript concepts for frontend development.
 #
-<img src="https://codedamn.com/assets/images/modern/fullstack/js.png" alt="JavaScript" width="200" height="150">
+<div style="display: flex;">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/js.png" alt="JavaScript" width="200" height="150">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/react.png" alt="React" width="200" height="150">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/node.png" alt="Node" width="200" height="150">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/github.png" alt="GitHub" width="200" height="150">
+    <img src="https://codedamn.com/assets/images/modern/fullstack/mongodb.png" alt="MongoDB" width="200" height="150">
+</div>
 
-<img src="https://codedamn.com/assets/images/modern/fullstack/react.png" alt="React" width="200" height="150">
-
-<img src="https://codedamn.com/assets/images/modern/fullstack/node.png" alt="Node" width="200" height="150">
-
-<img src="https://codedamn.com/assets/images/modern/fullstack/github.png" alt="github" width="200" height="150">
-
-<img src="https://codedamn.com/assets/images/modern/fullstack/mongodb.png" alt="mongodb" width="200" height="150">
 
 
 ## Contents
